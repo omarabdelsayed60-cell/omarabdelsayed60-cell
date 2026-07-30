@@ -2,230 +2,296 @@
 
 Hi, I'm Omar Ismail 👋
 
-AI / ML Developer • Python Developer • Intelligent Automation Engineer
+AI Engineer | Intelligent Automation Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Building+AI+that+understands.;Creating+automation+that+never+sleeps.;Turning+repetitive+work+into+intelligent+systems.;Making+computers+think%2C+then+putting+them+to+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&vCenter=true&width=850&lines=Building+AI+that+solves+real+business+problems.;Turning+intelligent+decisions+into+automated+action.;Creating+automation+that+never+sleeps.;Making+complex+processes+feel+simple." alt="Typing introduction" />
+
+<br>
 
 
 
 </div>
 
-🧠 About Me
+👨‍💻 About Me
 
-I build AI-powered applications and intelligent automation solutions that understand information, make decisions, and execute real business processes.
+I design and build AI-powered applications and intelligent automation solutions that solve real business problems.
 
-My work combines Artificial Intelligence, Large Language Models, Speech AI, Python, APIs, databases, dashboards, and RPA to transform repetitive manual work into reliable systems.
+My work connects LLMs, Speech AI, Python, APIs, databases, and RPA to create complete systems—from collecting raw data to analyzing it with AI and turning the results into automated actions and operational insights.
 
-I have built solutions that download and process raw business data, convert customer calls into text, analyze conversations with AI, classify emails, generate summaries and recommended replies, store structured results in SQL Server, and present insights through dashboards.
+I build AI that makes intelligent decisions—and automation that turns those decisions into action.
 
-I make computers think with AI, then put them to work with automation.
+🎯 What I Do
 
-When a task is repetitive, I do not complain about it.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I automate it. 😄
+🧠 Artificial Intelligence
 
-🚀 What I Build
+LLM-powered applications
 
-🤖 AI-powered business applications
+Prompt engineering
 
-🎧 Customer voice and chat interaction analyzers
+RAG systems
 
-🗣️ Speech-to-text and conversation intelligence systems
+Email classification and summarization
 
-📧 Email classification, summarization, and smart-reply tools
+Conversation analysis
 
-🧠 RAG knowledge-base applications
+Sentiment and quality evaluation
 
-⚙️ Enterprise RPA and browser automation bots
+Speech-to-text solutions
 
-🔌 REST APIs and system integrations
+AI-generated recommendations
 
-🗄️ SQL data pipelines and automated reporting
+</td>
+<td width="50%" valign="top">
 
-📊 Interactive AI dashboards
+⚙️ Intelligent Automation
 
-🏆 Featured Work
+End-to-end process automation
+
+Browser and web automation
+
+API integrations
+
+Email and file processing
+
+SQL data pipelines
+
+Scheduled enterprise workflows
+
+Automated reporting
+
+Error handling and monitoring
+
+</td>
+</tr>
+</table>
+
+🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 🤖 AI Customer Interaction Analyzer
 
-An end-to-end platform that combines RPA and AI to process customer calls and chats.
+AI • Speech • RPA • SQL
 
-The automation downloads raw interaction data, retrieves call recordings, sends audio to Azure AI Speech for transcription, uses Azure OpenAI to analyze conversations, and stores structured findings in SQL Server for reporting and dashboards.
+An end-to-end platform that processes customer voice and chat interactions automatically.
 
-Capabilities include:
+Workflow
 
-Speech-to-text transcription
+Raw Data → Call Download → Speech-to-Text → AI Analysis → SQL Storage → Operational Insights
 
-Conversation summarization
+Key Capabilities
 
-Sentiment analysis
+Azure AI Speech transcription
 
-Quality evaluation
+Azure OpenAI conversation analysis
 
-Customer and agent behavior analysis
+Summarization and sentiment detection
+
+Quality and behavior evaluation
 
 Issue and business-driver identification
 
-Automated SQL storage and reporting
+Automated SQL storage
 
-📧 AI Email Classifier & Smart Reply System
+Structured operational reporting
 
-An AI application powered by Google Gemini that:
+</td>
+<td width="50%" valign="top">
 
-Classifies incoming customer emails
+📧 AI Email Classifier
 
-Summarizes each message
+Gemini • Python • REST API • Streamlit
 
-Suggests the best response
+An AI-powered application that analyzes customer emails and supports faster, more consistent responses.
 
-Displays category results through a dashboard
+Workflow
 
-Exposes functionality through a REST API
+Incoming Email → Classification → Summary → Suggested Reply → Structured Result
 
-Supports future enterprise integrations
+Key Capabilities
+
+Automatic email categorization
+
+Concise message summarization
+
+AI-generated reply suggestions
+
+REST API architecture
+
+Interactive user interface
+
+Extensible enterprise integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 🧠 RAG Knowledge Base
 
-A retrieval-based AI application that converts documents into embeddings, stores them in a vector database, retrieves the most relevant information, and uses an LLM to produce grounded answers.
+Embeddings • FAISS • LLMs • Python
+
+A retrieval-based application that answers questions using information from a controlled knowledge base.
+
+Workflow
+
+Documents → Chunking → Embeddings → Vector Search → Grounded Answer
+
+Key Capabilities
+
+Document processing
+
+Semantic search
+
+Vector storage with FAISS
+
+Context retrieval
+
+Grounded LLM responses
+
+Reduced hallucination risk
+
+</td>
+<td width="50%" valign="top">
 
 ⚙️ Enterprise Automation Bots
 
-Designed automation workflows for downloading reports, processing Excel files, interacting with enterprise websites, handling emails, uploading results, updating SQL databases, and generating operational reports.
+Python • Playwright • UiPath • Power Automate
+
+Automation solutions that handle repetitive operational work across websites, email, files, and databases.
+
+Common Automations
+
+Downloading and processing reports
+
+Handling Excel and CSV files
+
+Interacting with enterprise portals
+
+Reading and sending emails
+
+Uploading results
+
+Updating SQL databases
+
+Scheduling recurring workflows
+
+</td>
+</tr>
+</table>
 
 🛠️ Technology Stack
 
-Artificial Intelligence & Machine Learning
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20AI%20Speech-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
+AI & Machine Learning
+
+
 
 Programming & Data
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
 
-Automation
 
-<p>
-<img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/RPA-20232A?style=flat-square&logo=probot&logoColor=white" />
-</p>
+Automation & Backend
 
-Backend, Databases & Cloud
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
 
-Development Tools
+Databases, Cloud & Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
 
-📚 Currently Exploring
-
-Agentic AI
-
-AI agents and multi-agent systems
-
-Advanced RAG architectures
-
-Production-ready LLM applications
-
-AI evaluation and observability
-
-Cloud AI architecture
-
-DevOps and deployment for AI applications
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omarabdelsayed60-cell&show_icons=true&rank_icon=github&hide_border=true" alt="Omar's GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarabdelsayed60-cell&layout=compact&hide_border=true" alt="Omar's most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=omarabdelsayed60-cell&hide_border=true" alt="Omar's GitHub streak" />
 
 </div>
 
-GitHub language statistics show the languages in public repositories. They do not measure total professional experience.
+🔭 Current Focus
 
-💭 My Engineering Philosophy
+<div align="center">
 
-AI should understand.
-Automation should execute.
-Humans should create.
+
+
+</div>
+
+📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omarabdelsayed60-cell&hide_border=true&theme=transparent" alt="Omar's GitHub contribution streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarabdelsayed60-cell&theme=transparent" alt="Omar's GitHub profile summary" />
+
+</div>
+
+GitHub activity reflects public repositories and does not represent the full scope of my professional work.
+
+💭 Engineering Philosophy
+
+<div align="center">
+
+AI turns information into decisions.
+
+Automation turns decisions into action.
+
+People turn both into progress.
+
+</div>
 
 Every repetitive task is code waiting to be written.
 
 The best automation is the one people forget exists.
 
-First make it work. Then make it reliable. Then automate the explanation of why it failed.
+Build it. Test it. Improve it. Then automate the boring part.
 
 ⚡ Developer Mode
 
 class Omar:
     def __init__(self):
-        self.role = "AI / ML Developer"
-        self.languages = ["Python", "SQL", "JavaScript"]
-        self.specialties = ["AI", "LLMs", "RPA", "Speech AI", "APIs"]
-        self.current_status = "Building intelligent systems"
+        self.role = "AI Engineer | Intelligent Automation Developer"
+        self.stack = ["Python", "AI", "LLMs", "RPA", "SQL", "APIs"]
+        self.mission = "Turn complex business problems into intelligent systems"
 
-    def handle_repetitive_task(self, task):
-        return f"Automating: {task}"
+    def solve(self, problem):
+        return f"Analyzing, building, automating: {problem}"
 
-    def debug(self):
-        return "One final fix... probably."
+    def stop_coding(self):
+        return "Just one more feature..."
 
-😄 Fun Facts
+😄 Behind the Code
 
 🐍 Python is my main language.
 
-🤖 I build AI that understands the task before automation executes it.
+🤖 I combine AI reasoning with automated execution.
 
 ☕ Some systems run on cloud infrastructure. Others run on coffee.
 
-🐛 I do not create bugs. I create unexpected learning opportunities.
+🐛 Bugs are unexpected learning opportunities.
 
-🌙 “One last feature” has never actually meant one last feature.
+🌙 “One final feature” is rarely final.
 
-⚙️ If something must be done twice, I start thinking about automation.
+⚙️ If a task must be done twice, I start designing the automation.
 
 🤝 Let's Connect
 
-I enjoy discussing AI applications, automation, RAG, Python, Speech AI, and real-world business problems.
-
 <div align="center">
 
+I enjoy discussing AI applications, RAG, intelligent automation, Python, Speech AI, and real-world business challenges.
 
+<br>
+
+
+
+<br>
 
 Thanks for visiting 👋
 
-Found a bug? Congratulations — you are now part of the QA team.
+Found a bug? Congratulations—you are now part of the QA team.
 
 
 
